@@ -1,0 +1,6 @@
+path: Reproducibiliy/
+train: ../sample_images
+val: ../sample_images
+
+nc: 34
+names: ['animal', 'auto_rickshaw', 'bicycle', 'billboard', 'building', 'bus', 'car', 'cart_vehicle', 'construction_vehicle', 'fence', 'garbage_bin', 'gate', 'motorbike', 'over bridge', 'person', 'pole', 'poster', 'priority_vehicle', 'rail_crossing', 'road', 'road blocker', 'road divider', 'road sign', 'sidewalk', 'sky', 'speed breaker', 'three_wheeler', 'toll', 'traffic_light', 'train', 'truck', 'vegetation', 'wall', 'wheelchair']
